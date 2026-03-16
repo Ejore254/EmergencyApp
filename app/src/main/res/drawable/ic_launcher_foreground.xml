@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Emergency Cross Icon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M78,57H57V78H51V57H30V51H51V30H57V51H78V57Z" />
+</vector>

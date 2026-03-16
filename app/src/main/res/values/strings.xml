@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EmergencyApp</string>
+    <string name="login_title">Emergency App</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="signup_link">Don\'t have an account? Sign up</string>
+    <string name="signup_title">Create Account</string>
+    <string name="name_hint">Full Name</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="login_link">Already have an account? Login</string>
+    <string name="dashboard_title">Emergency Dashboard</string>
+    <string name="police">POLICE</string>
+    <string name="fire">FIRE</string>
+    <string name="medical">MEDICAL</string>
+    <string name="all_in_one">ALL-IN-ONE</string>
+    <string name="dashboard_instruction">Press any card to call for immediate help</string>
+</resources>
